@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-sona/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/my-sona/static/js/main.84bc7536.chunk.js",
+    "main.js.map": "/my-sona/static/js/main.84bc7536.chunk.js.map",
+    "runtime-main.js": "/my-sona/static/js/runtime-main.1428bf54.js",
+    "runtime-main.js.map": "/my-sona/static/js/runtime-main.1428bf54.js.map",
+    "static/js/2.89608881.chunk.js": "/my-sona/static/js/2.89608881.chunk.js",
+    "static/js/2.89608881.chunk.js.map": "/my-sona/static/js/2.89608881.chunk.js.map",
+    "static/js/3.bcbeff30.chunk.js": "/my-sona/static/js/3.bcbeff30.chunk.js",
+    "static/js/3.bcbeff30.chunk.js.map": "/my-sona/static/js/3.bcbeff30.chunk.js.map",
+    "index.html": "/my-sona/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/my-sona/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.89608881.chunk.js.LICENSE.txt": "/my-sona/static/js/2.89608881.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1428bf54.js",
+    "static/js/2.89608881.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.84bc7536.chunk.js"
+  ]
+}
